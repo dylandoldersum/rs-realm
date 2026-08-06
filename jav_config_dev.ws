@@ -46,10 +46,10 @@ msg=new_version=Update available! You can now launch the client directly from th
 msg=new_version_linktext=Open OldSchool Homepage
 msg=new_version_link=http://oldschool.runescape.com/
 param=13=.runescape.com
-param=20=http://play.rs-realm.com:43595/jagex/
+param=20=https://auth.rs-realm.com/
 param=4=1
 param=14=0
-param=22=http://play.rs-realm.com:43595/jagex/
+param=22=https://auth.rs-realm.com/
 param=12=465
 param=21=0
 param=28=https://account.jagex.com/
@@ -59,7 +59,7 @@ param=3=true
 param=2=https://payments.jagex.com/
 param=17=https://raw.githubusercontent.com/dylandoldersum/rs-realm/main/world_list.ws
 param=7=0
-param=11=http://play.rs-realm.com:43595/jagex/
+param=11=https://auth.rs-realm.com/
 param=9=ElZAIrq5NpKN6D3mDdihco3oPeYN2KFy2DCquj7JMmECPmLrDP3Bnw
 param=19=196515767263-1oo20deqm6edn7ujlihl6rpadk9drhva.apps.googleusercontent.com
 param=10=5
