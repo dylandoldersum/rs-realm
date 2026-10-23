@@ -53,7 +53,7 @@ param=22=https://auth.rs-realm.com/jagex/
 param=12=465
 param=21=0
 param=28=https://account.jagex.com/
-param=25=238
+param=25=241
 param=16=false
 param=3=true
 param=2=https://payments.jagex.com/
